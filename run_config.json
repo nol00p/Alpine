@@ -1,0 +1,203 @@
+{
+    "save_dir": ".",
+    "config_name": "Ptero-Dactyl",
+    "show_caps": false,
+    "nrows": 5,
+    "ncols": 6,
+    "alpha": 0.27,
+    "beta": 0.09,
+    "centerrow_offset": 3,
+    "centercol": 3,
+    "tenting_angle": 0.22,
+    "symmetry": "symmetric",
+    "column_style_gt5": "orthographic",
+    "column_style": "standard",
+    "thumb_offsets": [
+        0,
+        -5,
+        7
+    ],
+    "keyboard_z_offset": 9,
+    "extra_width": 2.5,
+    "extra_height": 1.0,
+    "wall_z_offset": 15,
+    "wall_x_offset": 5,
+    "wall_y_offset": 6,
+    "left_wall_x_offset": 12,
+    "left_wall_z_offset": 3,
+    "wall_thickness": 4.5,
+    "wall_base_y_thickness": 4.5,
+    "wall_base_x_thickness": 4.5,
+    "wall_base_back_thickness": 4.5,
+    "fixed_angles": [
+        0.27453277777777776,
+        0.17453277777777776,
+        0,
+        0,
+        0,
+        -0.26179916666666664,
+        -0.26179916666666664
+    ],
+    "fixed_x": [
+        -41.5,
+        -22.5,
+        0,
+        20.3,
+        41.4,
+        65.5,
+        89.6
+    ],
+    "fixed_z": [
+        12.1,
+        8.3,
+        0,
+        5,
+        10.7,
+        14.5,
+        17.5
+    ],
+    "fixed_tenting": 0.0,
+    "plate_style": "HS_NUB",
+    "hole_keyswitch_height": 14.0,
+    "hole_keyswitch_width": 14.0,
+    "nub_keyswitch_height": 14.4,
+    "nub_keyswitch_width": 14.4,
+    "undercut_keyswitch_height": 14.4,
+    "undercut_keyswitch_width": 14.4,
+    "sa_profile_key_height": 12.7,
+    "plate_thickness": 4,
+    "clip_thickness": 1.4,
+    "clip_undercut": 1.0,
+    "undercut_transition": 0.2,
+    "plate_file": null,
+    "plate_offset": 0.0,
+    "oled_mount_type": "CLIP",
+    "oled_configurations": {
+        "UNDERCUT": {
+            "oled_mount_width": 15.0,
+            "oled_mount_height": 35.0,
+            "oled_mount_rim": 3.0,
+            "oled_mount_depth": 6.0,
+            "oled_mount_cut_depth": 20.0,
+            "oled_mount_location_xyz": [
+                -80.0,
+                20.0,
+                45.0
+            ],
+            "oled_mount_rotation_xyz": [
+                13.0,
+                0.0,
+                -6.0
+            ],
+            "oled_left_wall_x_offset_override": 28.0,
+            "oled_left_wall_z_offset_override": 0.0,
+            "oled_mount_undercut": 1.0,
+            "oled_mount_undercut_thickness": 2.0
+        },
+        "SLIDING": {
+            "oled_mount_width": 12.5,
+            "oled_mount_height": 25.0,
+            "oled_mount_rim": 2.5,
+            "oled_mount_depth": 8.0,
+            "oled_mount_cut_depth": 20.0,
+            "oled_mount_location_xyz": [
+                -78.0,
+                10.0,
+                41.0
+            ],
+            "oled_mount_rotation_xyz": [
+                6.0,
+                0.0,
+                -3.0
+            ],
+            "oled_left_wall_x_offset_override": 24.0,
+            "oled_left_wall_z_offset_override": 0.0,
+            "oled_thickness": 4.2,
+            "oled_edge_overlap_end": 6.5,
+            "oled_edge_overlap_connector": 5.5,
+            "oled_edge_overlap_thickness": 2.5,
+            "oled_edge_overlap_clearance": 2.5,
+            "oled_edge_chamfer": 2.0
+        },
+        "CLIP": {
+            "oled_mount_width": 12.5,
+            "oled_mount_height": 39.0,
+            "oled_mount_rim": 1.5,
+            "oled_mount_depth": 5.0,
+            "oled_mount_cut_depth": 20.0,
+            "oled_mount_location_xyz": [
+                -72.0,
+                20.0,
+                39.0
+            ],
+            "oled_mount_rotation_xyz": [
+                12.0,
+                5.0,
+                -6.0
+            ],
+            "oled_left_wall_x_offset_override": 12.0,
+            "oled_left_wall_z_offset_override": 0.0,
+            "oled_thickness": 4.2,
+            "oled_mount_bezel_thickness": 3.5,
+            "oled_mount_bezel_chamfer": 2.0,
+            "oled_mount_connector_hole": 6.0,
+            "oled_screen_start_from_conn_end": 6.5,
+            "oled_screen_length": 24.5,
+            "oled_screen_width": 10.5,
+            "oled_clip_thickness": 1.5,
+            "oled_clip_width": 6.0,
+            "oled_clip_overhang": 1.0,
+            "oled_clip_extension": 5.0,
+            "oled_clip_width_clearance": 0.5,
+            "oled_clip_undercut": 0.5,
+            "oled_clip_undercut_thickness": 2.5,
+            "oled_clip_y_gap": 0.2,
+            "oled_clip_z_gap": 0.2
+        }
+    },
+    "web_thickness": 4.0,
+    "post_size": 0.1,
+    "post_adj": 0,
+    "screws_offset": "INSIDE",
+    "controller_mount_type": "EXTERNAL",
+    "external_holder_height": 12.5,
+    "external_holder_width": 29.0,
+    "external_holder_xoffset": -5.0,
+    "column_offsets": [
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            2.82,
+            -4.5
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            -12,
+            5.64
+        ],
+        [
+            0,
+            -12,
+            5.64
+        ],
+        [
+            0,
+            -12,
+            5.64
+        ]
+    ]
+}
