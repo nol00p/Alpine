@@ -22,6 +22,8 @@ I would note this repo would gave me a great guide to get to a working product. 
 # The Build
 ## The case
 all the 3D design and case generation was done thanks to the awesome work from u/j_oshrev at https://github.com/joshreve/dactyl-keyboard
+
+
 ## Wiring 
 ## The oled screens
 connect GND to GND, VCC to VCC, SDA to pin 2 and SCL to pin 3.
