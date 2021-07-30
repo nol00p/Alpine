@@ -6,18 +6,24 @@ I would note this repo would gave me a great guide to get to a working product. 
 # Though Process
 
 # requirements 
-[] case
-[] tray holder
-[] ec11 adapter
-[] diodes
-[] cable
-[] oled screens
-[] ec11 encoders
-[] switches
-[] keycaps
+* case
+* tray holder
+* ec11 adapter
+* Screws 
+* Screw inserts
+* diodes
+* wires
+* Elite C / Pro Micro
+* oled screens
+* ec11 encoders
+* switches
+* keycaps
 
 # The Build
-## the case 
-## the 
+## The case
+all the 3D design and case generation was done thanks to the awesome work from u/j_oshrev at https://github.com/joshreve/dactyl-keyboard
+## Wiring 
+## The oled screens
+## Rotary Encoders
 
 # The Code
