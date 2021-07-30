@@ -5,8 +5,19 @@ I would note this repo would gave me a great guide to get to a working product. 
 
 # Though Process
 
-# The files 
+# requirements 
+[] case
+[] tray holder
+[] ec11 adapter
+[] diodes
+[] cable
+[] oled screens
+[] ec11 encoders
+[] switches
+[] keycaps
 
 # The Build
+## the case 
+## the 
 
 # The Code
