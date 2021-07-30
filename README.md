@@ -28,5 +28,6 @@ connect GND to GND, VCC to VCC, SDA to pin 2 and SCL to pin 3.
 ## Rotary Encoders
 To add the rotary encoder, wire the two pins on one side into the matrix, just like any other switch (press the encoder acts like any other switch). f
 From the other side of the encoder (the one with 3 pins) connect the middle one to GND. The two outer pins of the other side have to be wired to the pins A2 and A3. 
+![encoder](/media/encoder.jpeg)
 
 # The Code
