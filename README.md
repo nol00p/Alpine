@@ -25,7 +25,7 @@ all the 3D design and case generation was done thanks to the awesome work from u
 
 
 ## Wiring 
-![wiring](/media/Ptero-Dactyl wiring.jpeg)
+![wiring](/media/Ptero-Dactyl wiring.jpg)
 ## The oled screens
 connect GND to GND, VCC to VCC, SDA to pin 2 and SCL to pin 3.
 ## Rotary Encoders
