@@ -2,7 +2,7 @@
 
 this the final result:
 
-![Ptero-Dactyl](/media/Ptero-Dactyl.jpeg)
+![Ptero-Dactyl](/media/Ptero-Dactyl.JPEG)
 
 
 # Acknoledgement
