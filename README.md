@@ -43,6 +43,11 @@ once the case is cleaned up, get the rest od teh component printed and install t
 
 ![print](/media/kit.JPEG)
 
+for this build I forked the loligagger tray to have a mirror version so that the usb and trrs wouldn't get crossed 
+
+![tray](/media/tray.JPEG)
+![tray2](/media/tray2.JPEG)
+
 
 ## Wiring 
 
