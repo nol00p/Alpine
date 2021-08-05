@@ -41,7 +41,7 @@ After the printing goes the painfully long process of picking out all of the sup
 
 once the case is cleaned up, get the rest od teh component printed and install the sockets. 
 
-![print](/media/Ptero-Dactyl 3 (Small).JPEG)
+![print](/media/kit.JPEG)
 
 
 ## Wiring 
