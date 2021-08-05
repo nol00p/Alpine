@@ -15,7 +15,7 @@ the aim of the build is to try to get as clean a result as possible with all the
 
 # requirements 
 * 3 Printer for : 
-  ** case
+** case
 * tray holder
 * ec11 adapter
 * Screws: whatert M3 screws
