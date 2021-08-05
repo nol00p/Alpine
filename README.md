@@ -10,6 +10,8 @@ this the final result:
 
 I would note this repo would gave me a great guide to get to a working product. https://github.com/OutstandingOof/ducktyl-manuform
 
+if you have questions on the build or any of the tools I used hit me up reddit [u/loss_of_signal](https://www.reddit.com/user/loss_of_signal)
+
 # Though Process
 the aim of the build is to try to get as clean a result as possible with all the features fully integrated in the case design. both the LCD are fully integrated in the case. the trays on both sides are mirrored to avoid crossing the trrs and the usb. 
 
