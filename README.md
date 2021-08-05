@@ -70,6 +70,6 @@ the wiring for a Pro Micro controler is the exact same.
 
 the end result is something like this
 
-![wired](/media/wired.jpg)
+![wired](/media/wired.jpeg)
 
 # The Code
