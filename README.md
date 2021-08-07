@@ -80,5 +80,6 @@ the end result is something like this
 ![wired](/media/wired.jpeg)
 
 # The Code
-for simplicity I have opted to go with 2 elite-c controlers. it makes flashing both half of the keybaord much more straight forward.  
-note that to date the code for the oled screens is from the lily58. I need to spend some time to tweak that part to get to something I actually like. 
+For simplicity sake, I have opted to install the elite-c on both sides. This makes flashing much easier by not having to deal with different loaders on each sides.
+
+note: all the oled management code is pulled from the lily58. I need to spend time (and get help) to figure out how to better use the screen and get a setup that I actully like.
