@@ -16,7 +16,7 @@ if you have questions on the build or any of the tools I used hit me up reddit [
 the aim of the build is to try to get as clean a result as possible with all the features fully integrated in the case design. both the LCD are fully integrated in the case. the trays on both sides are mirrored to avoid crossing the trrs and the usb. 
 
 # requirements 
-* 3 Printer for : 
+* 3D Printed parts : 
   * case: both sides top and bottom
   * tray holder: both sides 
   * ec11 adapters
