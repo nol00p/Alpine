@@ -21,7 +21,7 @@ the aim of the build is to try to get as clean a result as possible with all the
   * tray holder: both sides 
   * ec11 adapters
   * LCD tray
-* Screws: whatert M3 screws
+* Screws: M3 screws
 * Screw inserts
 * diodes: 1N4148
 * wires: I recommend single core wire, it is much easier to work with
