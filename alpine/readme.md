@@ -80,3 +80,6 @@ the end result is something like this
 ![wired](/media/wired.jpeg)
 
 # The Code
+For simplicity sake, I have opted to install the elite-c on both sides. This makes flashing much easier by not having to deal with different loaders on each sides. 
+
+note: all the oled management code is pulled from the lily58. I need to spend time (and get help) to figure out how to better use the screen and get a setup that I actully like. 
